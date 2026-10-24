@@ -1,6 +1,6 @@
 # shadowfoxer07-main-lab
 #  My Programming Journey
-** Welcome to my coding repository! **
+* Welcome to my coding repository! *
 
 My journey learning C, Python, Computer systems, AI and cybersecurity......
 I'm a beginner developer learning how computer work and how to build softwares.
@@ -20,9 +20,9 @@ I'm a beginner developer learning how computer work and how to build softwares.
   - Develop the skills to build useful technology
 
 ### Current Status 
-** stage: Beginner **
-** focus: C and python fundamentals **
+* stage: Beginner *
+* focus: C and python fundamentals *
 
 ### My Philosophy
-** Learn the fundamentals, Experiment, Build, and Understand.
-   This repository documents my progress, experiments, and projects. **
+* Learn the fundamentals, Experiment, Build, and Understand.
+   This repository documents my progress, experiments, and projects. *
