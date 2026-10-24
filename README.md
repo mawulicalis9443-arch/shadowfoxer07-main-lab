@@ -20,8 +20,8 @@ I'm a beginner developer learning how computer work and how to build softwares.
   - Develop the skills to build useful technology
 
 ### Current Status 
-**stage: Beginner**
-**focus: C and python fundamentals**
+**- stage: Beginner**
+**- focus: C and python fundamentals**
 
 ### My Philosophy
 **Learn the fundamentals, Experiment, Build, and Understand.
